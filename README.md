@@ -1,2 +1,1 @@
-# printf
 Group Project
