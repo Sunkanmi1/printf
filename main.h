@@ -1,7 +1,7 @@
 #ifndef main_h
 #define main_h
-#include <limits.h>
-#include <stdio.h>
+
+
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdarg.h>
